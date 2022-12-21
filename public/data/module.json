@@ -1,0 +1,14 @@
+{
+  "lessons": [
+    { "id": 1001, "title": "HTML", "duration": 1, "pricePerMonth": 100000 },
+    { "id": 1002, "title": "Js Intro", "duration": 2, "pricePerMonth": 150000 },
+    { "id": 1003, "title": "Js OOP", "duration": 2, "pricePerMonth": 150000 },
+    { "id": 1004, "title": "React", "duration": 3, "pricePerMonth": 120000 },
+    { "id": 1005, "title": "Redux", "duration": 2, "pricePerMonth": 90000 },
+    { "id": 1006, "title": "Vue", "duration": 2, "pricePerMonth": 170000 },
+    { "id": 1007, "title": "Angular", "duration": 3, "pricePerMonth": 120000 },
+    { "id": 1008, "title": "CSS", "duration": 2, "pricePerMonth": 100000 },
+    { "id": 1009, "title": "English", "duration": 5, "pricePerMonth": 50000 },
+    { "id": 1010, "title": "Node.js", "duration": 4, "pricePerMonth": 180000 }
+  ]
+}
