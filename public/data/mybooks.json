@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "101",
+      "title": "Robinson Crusoe",
+      "author": "defoe",
+      "pic": "images2/crusoe.jpeg"
+    },
+    {
+      "id": "102",
+      "title": "The Trial",
+      "author": "Kafka",
+      "pic": "images2/kafka.jpeg"
+    },
+    {
+      "id": "103",
+      "title": "The red and the black",
+      "author": "Stendhal",
+      "pic": "images2/stendal.jpeg"
+    },
+    {
+      "id": "104",
+      "title": "Madame Bovary",
+      "author": "Flaubert",
+      "pic": "images2/flaubert.jpeg"
+    },
+    {
+      "id": "105",
+      "title": "The Crime and Punishment",
+      "author": "Dostoevsky",
+      "pic": "images2/dost.jpeg"
+    },
+    {
+      "id": "106",
+      "title": "The Stranger",
+      "author": "Camus",
+      "pic": "images2/camus.jpeg"
+    },
+    {
+      "id": "107",
+      "title": "Illiad",
+      "author": "Homer",
+      "pic": "images2/homer.jpeg"
+    },
+    {
+      "id": "108",
+      "title": "Mrs Dalloway",
+      "author": "Woolf",
+      "pic": "images2/woolf.jpeg"
+    },
+    {
+      "id": "109",
+      "title": "The adventures of Tom Sawyer",
+      "author": "Twain",
+      "pic": "images2/twain.jpeg"
+    }
+  ]
+}

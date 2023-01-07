@@ -1,5 +1,11 @@
 import "./App.css";
-import ControlledComponent from "./components/ControlledComponent";
+import ShowModal from "./MyModal/ShowModal";
+// import UseHOC from "./pages/useHOC";
+// import FormHook from "./components/FormHook";
+// import MyForm from "./components/myForm";
+// import UsingCustomFetch from "./pages/UsingCustomFetch";
+// import UsingCustomInput from "./pages/UsingCustomInput";
+// import ControlledComponent from "./components/ControlledComponent";
 // import FormValidation from "./components/FormValidation";
 // import StateVsProps from "./components/StateVsProps";
 // import PaymanakanRender from "./components/PaymanakanRender";
@@ -25,7 +31,13 @@ function App() {
       {/* <PaymanakanRender /> */}
       {/* <StateVsProps/> */}
       {/* <FormValidation/> */}
-      <ControlledComponent/>
+      {/* <ControlledComponent/> */}
+      {/* <FormHook /> */}
+      {/* <MyForm/> */}
+      {/* <UsingCustomFetch /> */}
+      {/* <UsingCustomInput /> */}
+      {/* <UseHOC /> */}
+      <ShowModal />
     </>
   );
 }
